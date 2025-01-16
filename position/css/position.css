@@ -1,0 +1,10 @@
+.sticky {
+    position: fixed;
+    left: 0;
+    top: 0;
+    color: #DFF5FF;
+    background-color: #5356FF;
+    width: 100%;
+    padding: 10px;
+    top: 530px;
+}
